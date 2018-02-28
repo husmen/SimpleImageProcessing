@@ -258,4 +258,8 @@ paket-files/
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> c1ddcf7adfeaae889bc1c598dcacde58742b83a1
